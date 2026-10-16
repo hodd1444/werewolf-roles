@@ -1,0 +1,26 @@
+{
+  "name": "Werwolf – Rollenverteilung",
+  "short_name": "Werwolf",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#140d0b",
+  "theme_color": "#140d0b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "description": "Rollen für Die Werwölfe von Düsterwald per Handy verteilen – mit Presets, Nacht-Guide und eigenen Rollen.",
+  "lang": "de",
+  "categories": [
+    "games",
+    "entertainment"
+  ]
+}
